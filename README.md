@@ -12,3 +12,5 @@ The file “besleria_raw_data_matrix.xlsx” contains the original database and 
 The file “besleria_summary_matrix.xlsx” contains the data matrix used to run the script, presenting compiled data on the mean, standard deviation, and range of the environmental variables.
 
 The file “besleria_interval_matrix.xlsx” contains the data matrix used to generate the complementary PCoA for this study, presented as Supplementary Material. This matrix includes the minimum and maximum values of the intervals generated for continuous variables, while for categorical variables, it presents the number of categories occupied by each taxon in each condition.
+
+Figure S1. Complementary Principal Coordinate Analysis (PCoA), generated based on the file “besleria_interval_matrix.xlsx”. The analysis shows the studied _Besleria_ species and the environmental variables. Species endemic to the Atlantic Forest are highlighted in green, whereas species that also occur in other domains are highlighted in orange.
